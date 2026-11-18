@@ -1,8 +1,3 @@
-# Retail-Sales-Analytics
-End-to-end retail sales analysis using Python, SQL and Power BI.
-
-
-
 # Retail Sales Performance Analysis
 
 ## Project Overview
